@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\Lists-in-C-\bin\Debug\net8.0\Lists-in-C-.exe
+C:\Users\13608\Documents\GitHub\Lists-in-C-\bin\Debug\net8.0\Lists-in-C-.deps.json
+C:\Users\13608\Documents\GitHub\Lists-in-C-\bin\Debug\net8.0\Lists-in-C-.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\Lists-in-C-\bin\Debug\net8.0\Lists-in-C-.dll
+C:\Users\13608\Documents\GitHub\Lists-in-C-\bin\Debug\net8.0\Lists-in-C-.pdb
+C:\Users\13608\Documents\GitHub\Lists-in-C-\obj\Debug\net8.0\Lists-in-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\Lists-in-C-\obj\Debug\net8.0\Lists-in-C-.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\Lists-in-C-\obj\Debug\net8.0\Lists-in-C-.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\Lists-in-C-\obj\Debug\net8.0\Lists-in-C-.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\Lists-in-C-\obj\Debug\net8.0\Lists-in-C-.dll
+C:\Users\13608\Documents\GitHub\Lists-in-C-\obj\Debug\net8.0\refint\Lists-in-C-.dll
+C:\Users\13608\Documents\GitHub\Lists-in-C-\obj\Debug\net8.0\Lists-in-C-.pdb
+C:\Users\13608\Documents\GitHub\Lists-in-C-\obj\Debug\net8.0\Lists-in-C-.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\Lists-in-C-\obj\Debug\net8.0\ref\Lists-in-C-.dll
